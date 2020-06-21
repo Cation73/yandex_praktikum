@@ -10,6 +10,8 @@
 
 *Библиотеки: pandas, numpy, sklearn, matplotlib.*
 
+Схема восстановления золота из золотосодержащей руды представлена ниже.
+
 ![Схема производства](https://github.com/Cation73/yandex_praktikum/blob/master/08-final-project-second-module/scheme.jpg)
 
 
