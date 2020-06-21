@@ -5,7 +5,7 @@
 * 02 - Исследовательский анализ данных
 * 03 - Статистический анализ данных
 * 04 - Сборный проект по анализу данных
-[1]:https://github.com/Cation73/yandex_praktikum/tree/master/01-data-preprocessing "data-preprocessing"
+
 Блок №2:
 * 05 - Введение в машинное обучение
 * 06 - Обучение с учителем
@@ -22,3 +22,5 @@
 
 Блок №4:
 * 15 - Выпускная работа
+
+[1]: https://github.com/Cation73/yandex_praktikum/tree/master/01-data-preprocessing "data-preprocessing"
