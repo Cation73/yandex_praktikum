@@ -23,4 +23,4 @@
 Блок №4:
 * 15 - Выпускная работа
 
-[1]: https://github.com/Cation73/yandex_praktikum/tree/master/01-data-preprocessing "data-preprocessing"
+[1]: https://github.com/Cation73/yandex_praktikum/tree/master/01-data-preprocessing
