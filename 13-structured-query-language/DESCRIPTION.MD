@@ -8,11 +8,16 @@
 Часть исследовательского анализа проведено средствами SQL, затем были собраны данные для анализа из базы и вторая часть работы проведена в Python с помощью matplotlib. 
 Рассмотрена гипотеза о разнице среднего спроса в обычное время и во время фестивалей. 
 
-*Библиотеки: pandas, matplotlib, scipy (stats).*
+*Библиотеки: pandas, matplotlib, plotly, scipy (stats).*
 
 Схема реляционной базы данных представлена ниже.
 
 ![Схема реляционной базы данных](https://github.com/Cation73/yandex_praktikum/blob/master/13-structured-query-language/scheme.jpg)
+
+
+Github не отображает map plot, поэтому, к сожалению, plot доступен в формате png. При запуске ноутбука на других платформах должно всё работать.
+В качестве образца прикрепляю map plot в png.
+![Количество полетов в России](https://github.com/Cation73/yandex_praktikum/blob/master/13-structured-query-language/map.png)
 
 
 
