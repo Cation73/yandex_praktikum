@@ -22,7 +22,7 @@
 | [Отток клиентов из телеком](15-final-project-last)| Телеком | Проведение исследовательского анализа предоставленных данных, прогнозирование оттока клиентов из компании | *pandas, numpy, seaborn, matplotlib, datetime, sklearn, xgboost, imblearn* |
 
 *Контакты:*
-телефон: +79151562947
-telegram: @cation73
-почта: mr.sokolov.v.v@yandex.ru
-kaggle: https://www.kaggle.com/vadimsokolov
+1. телефон: +79151562947
+2. telegram: @cation73
+3. почта: mr.sokolov.v.v@yandex.ru
+4. kaggle: https://www.kaggle.com/vadimsokolov
