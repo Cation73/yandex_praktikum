@@ -21,4 +21,8 @@
 | [Определение возраста по фото](14-computer-vision)| Ретейл/E-commerce | Построение модели, которая по фотографии определит приблизительный возраст человека | *pandas, matplotlib, tensorflow, keras* |
 | [Отток клиентов из телеком](15-final-project-last)| Телеком | Проведение исследовательского анализа предоставленных данных, прогнозирование оттока клиентов из компании | *pandas, numpy, seaborn, matplotlib, datetime, sklearn, xgboost, imblearn* |
 
-
+*Контакты:*
+телефон: +79151562947
+telegram: @cation73
+почта: mr.sokolov.v.v@yandex.ru
+kaggle: https://www.kaggle.com/vadimsokolov
