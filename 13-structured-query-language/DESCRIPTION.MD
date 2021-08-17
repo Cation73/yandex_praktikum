@@ -19,6 +19,7 @@
 
 
 Github не отображает map plot, поэтому plot доступен в формате png. При запуске ноутбука на других платформах должно всё работать.
+
 ![Количество полетов в России](https://github.com/Cation73/yandex_praktikum/blob/master/13-structured-query-language/map.png)
 
 
